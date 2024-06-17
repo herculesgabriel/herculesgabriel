@@ -6,6 +6,4 @@ _Good! No one will realize that this is actually an excuse and I'm just too lazy
 
 [![Hercules's GitHub stats](https://github-readme-stats.vercel.app/api?username=herculesgabriel&count_private=true&show_icons=true&theme=radical)](https://github.com/herculesgabriel/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herculesgabriel&layout=compact)](https://github.com/herculesgabriel/github-readme-stats)
-
 [![Hercules's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=herculesgabriel&layout=compact)](https://github.com/herculesgabriel/github-readme-stats)
